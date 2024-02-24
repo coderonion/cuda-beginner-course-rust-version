@@ -1,0 +1,8 @@
+[package]
+name = "course01_hello_cuda"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.76"
+cudarc = "0.10.0"
