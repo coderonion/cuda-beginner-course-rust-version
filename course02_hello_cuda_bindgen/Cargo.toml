@@ -1,0 +1,11 @@
+[package]
+name = "course02_hello_cuda_bindgen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+cudarc = { version = "0.11.8", features = ["cuda-12010"] }
+
+[build-dependencies]
+bindgen_cuda = "0.1.5"
