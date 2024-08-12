@@ -11,8 +11,8 @@
 | Section | Videos                                                       | Codes                                         |
 | :------ | :----------------------------------------------------------- | :-------------------------------------------- |
 | 01      | [第1集 基于Rust的CUDA跨平台开发环境配置与测试](https://www.bilibili.com/video/BV18e411H7bY/) | [course01_hello_cuda](./course01_hello_cuda/) |
-| 02      | [第2集 你好, CUDA! (基于cudarc)](https://www.bilibili.com/video/BV1UMYQeNEBG/) | [course01_hello_cuda](./course01_hello_cuda/) |
-| 03      | [第3集 你好, CUDA! (基于cudarc和bindgen_cuda)](https://www.bilibili.com/video/BV1UhYXeMEBh/) | [course02_hello_cuda_bindgen](./course02_hello_cuda_bindgen/) |
+| 02      | [第2集 你好, CUDA! (基于cudarc)](https://www.bilibili.com/video/BV1RaecezEMF/) | [course01_hello_cuda](./course01_hello_cuda/) |
+| 03      | [第3集 你好, CUDA! (基于cudarc和bindgen_cuda)](https://www.bilibili.com/video/BV1VveceBEsM/) | [course02_hello_cuda_bindgen](./course02_hello_cuda_bindgen/) |
 |         |                                                              |                                               |
 
 
